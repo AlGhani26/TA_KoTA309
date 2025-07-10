@@ -37,11 +37,7 @@ The main dependencies include:
 - `ape_inference/`: Contains inference scripts, model architecture definitions, and notebooks.
 - `ape_train/`: Contains training scripts, notebooks, datasets, and output models.
 - `ape_preprocessing/`: Contains scripts for image preprocessing and patch extraction.
-- `ape_inference/data_test/`: Test images and corresponding labels for inference.
-- `ape_inference/data_visualisasi/`: Images and masks used for visualization.
-- `ape_train/output/`: Output directory for trained models, logs, checkpoints, and inference results.
-- `ape_train/dataset`: Dataset images and corresponding labels for training. 
-
+  
 ## Usage
 
 ### Training
