@@ -1,0 +1,7 @@
+matplotlib
+numpy
+Pillow
+rasterio
+scikit_learn
+seaborn
+kornia

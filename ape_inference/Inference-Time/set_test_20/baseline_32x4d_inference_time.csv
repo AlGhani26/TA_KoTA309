@@ -1,0 +1,8 @@
+Iterasi,TotalTime(s),AvgTimePerBatch(s),AvgTimePerImage(s)
+Iterasi-1,12.5684,0.098964,0.006207
+Iterasi-2,12.6363,0.099499,0.006240
+Iterasi-3,12.6161,0.099339,0.006230
+Iterasi-4,12.4732,0.098214,0.006160
+Iterasi-5,12.4186,0.097784,0.006133
+
+Rata-rata,12.5425,0.098760,0.006194
